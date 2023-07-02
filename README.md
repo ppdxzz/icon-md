@@ -1,7 +1,8 @@
-## 👉🏻 &nbsp;Introduction
-GitHub个人主页好看的图标，各式各样，欢迎star！
+## 📚 &nbsp;介绍
 
-## 🔥 &nbsp;Icon
+GitHub个人主页好看的图标，本项目完全开源，你如果需要在自己的项目中使用的话，直接复制图标链接🔗即可，后续会继续收录各种各样好看的图标，各式各样，欢迎star！
+
+## 🔥 &nbsp;图标
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-CN/)
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
@@ -16,11 +17,17 @@ GitHub个人主页好看的图标，各式各样，欢迎star！
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://www.r-project.org/)
+
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=ffffff)](https://kotlinlang.org/)
 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en)
+
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/)
+
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 
 [![MiniProgram](https://img.shields.io/badge/-MiniProgram-333333?style=flat&logo=wechat)](https://developers.weixin.qq.com/miniprogram/dev/)
 
@@ -64,6 +71,9 @@ GitHub个人主页好看的图标，各式各样，欢迎star！
 
 [![Linux](https://img.shields.io/badge/-Linux-772953?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 
+[![shell](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+[![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=ffffff)](https://en.wikipedia.org/wiki/Shell_script)
+
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
@@ -103,3 +113,13 @@ GitHub个人主页好看的图标，各式各样，欢迎star！
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+## 🛎 &nbsp;贡献与支持
+
+我们非常欢迎你为这个项目做出贡献或提供支持！如果你发现了问题、有建议或想要添加新的图标，请按照以下步骤操作：
+
+- 如果你发现了 bug 或有改进建议，请提交一个 issue。
+- 如果你想要贡献新的图标，请提交一个 pull request，并确保符合我们的贡献指南。
+- 如果你喜欢这个项目，请给它一个 star，以表达对我们的支持。
+
+非常感谢你的贡献和支持！我们期待着你的参与。
