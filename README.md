@@ -76,19 +76,29 @@ GitHub个人主页好看的图标，各式各样，欢迎star！
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/)
 
-[![CSDN](https://img.shields.io/badge/-CSDN-CB3837?style=flat-square&logo=csdn&logoColor=ffffff)](https://www.csdn.net/)
+[![CSDN](https://img.shields.io/badge/-CSDN-CF000E?style=flat-square&logo=CSDN&logoColor=ffffff)](https://www.csdn.net/)
 
 [![掘金](https://img.shields.io/badge/-掘金-007ACC?style=flat-square&logo=gold&logoColor=ffffff)](https://juejin.cn/)
 
 [![博客园](https://img.shields.io/badge/-博客园-009688?style=flat-square&logo=cnblogs&logoColor=ffffff)](https://www.cnblogs.com/)
 
-[![阿里云](https://img.shields.io/badge/-阿里云-FF6A00?style=flat-square&logo=aliyun&logoColor=ffffff)](https://www.aliyun.com/)
+[![阿里云](https://img.shields.io/badge/-阿里云-FF6A00?style=flat-square&logo=AlibabaCloud&logoColor=ffffff)](https://www.aliyun.com/)
 
 [![腾讯云](https://img.shields.io/badge/-腾讯云-007CFF?style=flat-square&logo=tencent-cloud&logoColor=ffffff)](https://cloud.tencent.com/)
 
 [![华为云](https://img.shields.io/badge/-华为云-FF0000?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.huaweicloud.com/)
 
 [![百度云](https://img.shields.io/badge/-百度云-3388FF?style=flat-square&logo=baidu&logoColor=ffffff)](https://cloud.baidu.com/)
+
+[![JetBrains IDEA](https://img.shields.io/badge/-JetBrains%20IDEA-000000?style=flat-square&logo=intellij%20idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+
+[![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=ffffff)](https://www.jetbrains.com/datagrip/)
+
+[![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
+
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+
+[![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=ffffff)](https://www.jetbrains.com/phpstorm/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
