@@ -70,6 +70,7 @@ GitHub个人主页好看的图标，本项目完全开源，你如果需要在�
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
 [![Linux](https://img.shields.io/badge/-Linux-772953?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)](https://www.linux.org/)
 
 [![shell](https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu%20bash&logoColor=ffffff)](https://en.wikipedia.org/wiki/Shell_script)
@@ -109,6 +110,12 @@ GitHub个人主页好看的图标，本项目完全开源，你如果需要在�
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=ffffff)](https://www.jetbrains.com/phpstorm/)
+
+[![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
+
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
