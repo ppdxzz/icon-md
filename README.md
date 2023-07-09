@@ -117,6 +117,44 @@ GitHub个人主页好看的图标，本项目完全开源，你如果需要在�
 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
+[![知乎](https://img.shields.io/badge/-知乎-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/)
+
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://www.bilibili.com/)
+
+[![微博](https://img.shields.io/badge/-微博-FF2800?style=flat-square&logo=sina-weibo&logoColor=ffffff)](https://weibo.com/)
+
+[![淘宝](https://img.shields.io/badge/-淘宝-FF4400?style=flat-square&logo=taobao&logoColor=ffffff)](https://www.taobao.com/)
+
+[![京东](https://img.shields.io/badge/-京东-FF3333?style=flat-square&logoColor=ffffff)](https://www.jd.com/)
+
+[![拼多多](https://img.shields.io/badge/-拼多多-E82D63?style=flat-square&logoColor=ffffff)](https://www.pinduoduo.com/)
+
+[![VitePress](https://img.shields.io/badge/-VitePress-00C58E?style=flat-square&logo=vite&logoColor=ffffff)](https://vitepress.vuejs.org/)
+
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff)](https://webpack.js.org/)
+
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=ffffff)](https://maven.apache.org/)
+
+[![Maven Central](https://img.shields.io/badge/-Maven%20Central-0074bd?style=flat-square&logo=apache-maven&logoColor=ffffff)](https://mvnrepository.com/)
+
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=ffffff)](https://gradle.org/)
+
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/)
+
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=ffffff)](https://spring.io/projects/spring-boot)
+
+[![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-cloud)
+
+[![Spring Cloud Alibaba](https://img.shields.io/badge/-Spring%20Cloud%20Alibaba-FF6A00?style=flat-square&logo=spring&logoColor=ffffff)](https://spring.io/projects/spring-cloud-alibaba)
+
+[![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=ffffff)](https://spring.io/projects/spring-security)
+
+[![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=vue.js&logoColor=ffffff)](https://element.eleme.io/)
+
+[![MyBatis Plus](https://img.shields.io/badge/-MyBatis%20Plus-311C87?style=flat-square&logo=mybatis&logoColor=ffffff)](https://mybatis.plus/)
+
+[![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
